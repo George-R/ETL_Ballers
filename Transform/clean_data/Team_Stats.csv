@@ -1,4 +1,4 @@
-Team,Year,WINorLOSS,TeamPoints,Assists,FieldGoals,TotalRebounds,TeamName,League,Season,Division,Franchise,W,L,%
+Team,Year,WINorLOSS,TeamPoints,Assists,FieldGoals,TotalRebounds,TeamName,League,Season,Division,Franchise,Wins,Losses,WPct
 ATL,2014,W,2360,590,859,962,Atlanta Hawks,,(2014-15),Southeast Division,Atlanta Hawks,60,22,73.20%
 ATL,2015,W,6185,1566,2301,2392,Atlanta Hawks,,(2015-16),Southeast Division,Atlanta Hawks,48,34,58.50%
 ATL,2016,W,4763,1200,1795,1977,Atlanta Hawks,,(2016-17),Southeast Division,Atlanta Hawks,43,39,52.40%
